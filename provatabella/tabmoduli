@@ -1,0 +1,17 @@
+>**_tabella fatta a mano_**
+>
+Argomento|nome modulo|data vigenza|
+---------|-----------|-----------|
+edilizia|inizio attività   |25/01/2017
+|fine attività|30/06/2018
+
+  [Guida markdown][21520227]
+
+  [21520227]: https://informaticabrutta.it/markdown-guida "Guida Mark down"
+
+>**_tabella inserita automaticamente_**
+> 
+  argomento| nome modulo  |data vigenza
+--|---|--
+  edilizia  | inizio attività  |  25/01/2017
+  | fine attività  |  30/06/2018
