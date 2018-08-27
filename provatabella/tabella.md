@@ -22,7 +22,7 @@ edilizia|inizio attività   |25/01/2017
 [67733]: https://www.paesionline.it/italia/foto-immagini-auronzo_di_cadore/67733_tre_cime_di_lavaredo "tre cime di lavaredo"
 
 
->prova Immagine incorporataRESIDENTE NEL TUO PC. TI CHIEDE SE VUOI COPIARE L'IMMAGINE IN ATOM E SE RISPONDI SI CREA LA CARTELLA IMAGES
+>prova Immagine incorporata residente in locale. TI CHIEDE SE VUOI COPIARE L'IMMAGINE IN ATOM E SE RISPONDI SI CREA LA CARTELLA IMAGES
 
 
 ![Budapest](../images/2018/08/budapest.JPG)
